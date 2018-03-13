@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  background-color: aqua;
+}
+
+
+li {
+  padding: 1em;
+}
+
+.king {
+  background-color: blue;
+  color: #fff;
+  border-radius: 8px;
+  border-color: #000;
+  padding: 1em;
+}
+
+.seven-thousand {
+  background-color: #fff;
+  border-radius: 8px;
+  border-color: #000;
+  padding: 1em;
+}
+
+.culture {
+  background-color: red;
+  color: #fff;
+  border-radius: 8px;
+  border-color: #000;
+  padding: 1em;
+}
+
+.independence {
+  background-color: yellow;
+  color: #000;
+  border-radius: 8px;
+  border-color: #000;
+  padding: 1em;
+}
