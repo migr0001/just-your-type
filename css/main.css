@@ -1,36 +1,14 @@
-body {
-  background-color: #c0e4da;
-  font-family: Dosis, sans-serif;
-}
-
-.philippines {
-  font-family: "Luckiest Guy", sans-serif;
-}
-
-.king {
-  background-color: #009ad7;
+main {
+  background-color: #000;
   color: #fff;
-  border-radius: 8px;
-  border-color: #000;
-  margin: 0;
 }
 
-.seven-thousand {
-  background-color: #ffee32;
-  border-radius: 8px;
-  border-color: #000;
+.pink {
+  background-color: #f99dba;
+  border-radius: 10px;
 }
 
-.culture {
-  background-color: #ff584b;
-  color: #fff;
-  border-radius: 8px;
-  border-color: #000;
-}
-
-.independence {
-  background-color: #fff;
-  color: #000;
-  border-radius: 8px;
-  border-color: #000;
+.blue {
+  background-color: #96d0de;
+  border-radius: 10px;
 }
