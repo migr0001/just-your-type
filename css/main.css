@@ -1,21 +1,28 @@
 main {
   background-color: #000;
+  font-family: "Architects Daughter", sans-serif;
   color: #fff;
-  font-family: Architects Daughter, sans-serif;
 }
 
 .pink {
   background-color: #f99dba;
-  border-radius: 50px;
+  border-radius: 80px;
+  border-bottom-left-radius: 0;
   font-family: Cookie, sans-serif;
 }
 
 .blue {
   background-color: #96d0de;
-  border-radius: 50px;
+  border-radius: 80px;
+  border-bottom-right-radius: 0;
   font-family: Cookie, sans-serif;
 }
 
 .love {
-  font-family: Architects Daughter, sans-serif;
+  font-family: "Architects Daughter", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
 }
