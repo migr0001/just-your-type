@@ -1,4 +1,4 @@
-main {
+body {
   background-color: #000;
   font-family: "Architects Daughter", sans-serif;
   color: #fff;
@@ -6,6 +6,7 @@ main {
 
 .pink {
   background-color: #f99dba;
+  border-style: dotted;
   border-radius: 80px;
   border-bottom-left-radius: 0;
   font-family: Cookie, sans-serif;
@@ -13,6 +14,7 @@ main {
 
 .blue {
   background-color: #96d0de;
+  border-style: dotted;
   border-radius: 80px;
   border-bottom-right-radius: 0;
   font-family: Cookie, sans-serif;
